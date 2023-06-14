@@ -1,2 +1,2 @@
-# Machine-Learning-Dummy-Variables---One-Hot-Encoding
- Machine Learning Dummy Variables & One Hot Encoding_Exercise
+# Machine-Learning-Dummy-Variables
+ Machine Learning Dummy Variables
