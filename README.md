@@ -22,7 +22,7 @@ To get started with the exercise, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies, such as Python and pandas.
-3. Open the Jupyter Notebook file (`dummy_variables_exercise.ipynb`) using Jupyter Notebook or any compatible environment.
+3. Open the Jupyter Notebook file (`ML_DummyVariables.ipynb`) using Jupyter Notebook or any compatible environment.
 4. Follow the instructions provided in the notebook to complete the exercise.
 5. Experiment and modify the code as needed to deepen your understanding of dummy variables.
 
